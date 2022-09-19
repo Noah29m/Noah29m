@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Noah29m
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web development (Fullstack)
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Android using Kotlin
 
-- 💞️ I’m looking to collaborate on any projects that involve HTML,CSS and Javascript.
+- 💞️ I’m looking to collaborate on any projects that involve building and mantaining mobile apps
 - 📫 Find me on twitter @noah_muhindi
 
 <!---
