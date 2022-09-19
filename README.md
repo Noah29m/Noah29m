@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noah29m
+- 👋 Hi, I’m Noah Muhindi
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Android using Kotlin
 
