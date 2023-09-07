@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noah Muhindi
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Android using Kotlin
+- 🌱 I’m currently learning Android 
 
 - 💞️ I’m looking to collaborate on any projects that involve building and mantaining mobile apps
 - 📫 Find me on twitter @noah_muhindi
